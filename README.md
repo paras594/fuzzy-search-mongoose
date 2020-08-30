@@ -8,6 +8,27 @@ Fuzzy search is a search which is more lenient than the hard search algorithms. 
 
 
 
+### Requirements
+
+- Node.js & NPM
+
+- Mongodb
+- Nodemon (`npm install nodemon -g`)
+
+
+
+### Commands
+
+```bash
+# install dependencies
+npm install
+
+# start project
+npm start
+```
+
+
+
 ### Technologies
 
 - Node.js
